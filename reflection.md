@@ -22,4 +22,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-
+I think i did well considering the time. It turns out that there are a lot of wikipedia articles so i had to change to just alfreds. The scrapong took a second to get down, but i eventiaully go it. The rest wen very smoothly unitl the transforamtion which i fixed by jsut editing the csv. then i also struglle with the plotting and its still al little so i may have jsut left it broken because im out of time
